@@ -1,6 +1,6 @@
 React-Application:
 
-Deployed on AWS S3 @ [NBA-APP](http://nba-app.s3-website-us-east-1.amazonaws.com/).  If data isn't loading please refresh the page. 
+Deployed on AWS S3 @ [NBA-APP](http://nba-app.s3-website-us-east-1.amazonaws.com/)   Live Demo.  If data isn't loading please refresh the page. 
 
 ## How to Run
 
